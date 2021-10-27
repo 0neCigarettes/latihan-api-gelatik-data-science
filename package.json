@@ -4,9 +4,9 @@
   "description": "latihan qpi",
   "main": "index.js",
   "dependencies": {
+    "date-fns": "^2.25.0",
     "dotenv": "^10.0.0",
     "express": "^4.17.1",
-    "date-fns": "^2.25.0",
     "logger": "0.0.1"
   },
   "devDependencies": {},

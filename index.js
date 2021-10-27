@@ -1,7 +1,6 @@
 require("dotenv").config();
 const http = require("http");
 const logger = require("./src/utils/logger");
-
 const server = http.createServer();
 
 server.listen(process.env.PORT, () => {
